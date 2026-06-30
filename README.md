@@ -136,6 +136,3 @@ These are demonstrated in `analysis.ipynb` with correlation heatmaps and year-by
 - Provide interactive dashboards (Streamlit / Plotly Dash)
 
 ---
-
-If you'd like, I can (1) run the combine script, (2) update the repo to save the merged CSV to `data/`, or (3) add a `requirements.txt`. Tell me which you'd prefer.
-
