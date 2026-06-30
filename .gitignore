@@ -1,5 +1,5 @@
 # Ignore all generated images
-images/*
+image/*
 
 # But keep the folder itself
-!images/.gitkeep
+!image/.gitkeep
